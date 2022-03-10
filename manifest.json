@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Better GUS",
+    "version": "0.1.0",
+    "description": "modifies GUS interface to make it more user-friendly",
+    "author": "Ariel Mirra",
+    "content_scripts": [
+        {
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "matches": [
+                "https://gus.lightning.force.com/lightning/n/*"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+.card {
+  max-width: 500px !important;
+}
+
+.subject {
+  max-height: none !important;
+}
+
+c-adm-board-column {
+  max-width: 500px;
+}
