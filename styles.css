@@ -1,5 +1,5 @@
 .card {
-  max-width: 500px !important;
+  max-width: 330px !important;
 }
 
 .subject {
@@ -7,5 +7,5 @@
 }
 
 c-adm-board-column {
-  max-width: 500px;
+  max-width: 330px;
 }
