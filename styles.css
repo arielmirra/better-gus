@@ -1,11 +1,15 @@
+c-adm-board-column {
+  max-width: 330px;
+}
+
 .card {
   max-width: 330px !important;
 }
 
-.subject {
-  max-height: none !important;
+c-adm-board-sprint-card, .card-container, .slds-grid {
+  border-radius: 10px !important;
 }
 
-c-adm-board-column {
-  max-width: 330px;
+.subject {
+  max-height: none !important;
 }
