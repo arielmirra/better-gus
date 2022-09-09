@@ -1,13 +1,13 @@
-c-adm-board-column {
-  max-width: 330px;
-}
-
 .card {
   max-width: 330px !important;
 }
 
 c-adm-board-sprint-card, .card-container, .slds-grid {
   border-radius: 10px !important;
+}
+
+.slds-p-vertical_xx-small {
+  border-radius: 10px 10px 0 0 !important;
 }
 
 .subject {
